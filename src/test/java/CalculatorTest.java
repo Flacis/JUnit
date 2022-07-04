@@ -1,7 +1,6 @@
-package ru.netologe;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import ru.netologe.Calculator;
 
 class CalculatorTest {
     public static final String ANSI_GREEN = "\u001B[32m";

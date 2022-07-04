@@ -34,4 +34,11 @@ public class DayInYear {
             return 365;
         }
     }
+
+    public static class Main {
+        public static void main(String[] args) {
+            DayInYear daysInYear = new DayInYear();
+            daysInYear.daysInYear(1);
+        }
+    }
 }
